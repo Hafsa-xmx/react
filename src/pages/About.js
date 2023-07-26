@@ -1,0 +1,10 @@
+import Header from "../components/Header";
+
+function About (){
+    return <div>
+        <Header />
+        <h1>This is about where you can review</h1>
+    </div>
+}
+
+export default About;
